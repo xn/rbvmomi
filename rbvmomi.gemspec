@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency('builder', '~> 3.2')
   spec.add_runtime_dependency('json', '~> 1.8')
-  spec.add_runtime_dependency('nokogiri', '~> 1.5.11')
+  spec.add_runtime_dependency('nokogiri', '~> 1.6')
   spec.add_runtime_dependency('trollop', '~> 2.1')
 
   spec.add_development_dependency('rake', '~> 10.5')
